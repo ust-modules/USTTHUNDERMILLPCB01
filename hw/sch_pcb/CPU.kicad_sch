@@ -3898,6 +3898,9 @@
     (property "Value" "4u7" (at 255.27 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "UST_ID" "5e3ff54b1287502a33bad705" (at 255.27 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid a4905ead-c659-4768-890f-b6662e225624))
     (pin "2" (uuid 65ad1045-b4d9-4b6a-8b56-147eeef42c29))
     (instances

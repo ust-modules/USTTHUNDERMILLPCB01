@@ -2968,6 +2968,9 @@
     (property "Datasheet" "~" (at 24.13 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "UST_ID" "5c70984512875079b91f88d1" (at 24.13 165.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 7ec637c8-5b9f-47cb-a1b4-5388c06afa86))
     (pin "2" (uuid fd99ca59-d02e-4283-9558-96278560cd70))
     (instances
