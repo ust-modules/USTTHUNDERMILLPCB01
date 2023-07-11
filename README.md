@@ -1,6 +1,6 @@
 # THUNDERMILL stator PCB
 
-The PCB is part of [Electric field mill](https://github.com/UniversalScientificTechnologies/THUNDERMILL01).
+The PCB is part of [Electric field mill](https://github.com/UniversalScientificTechnologies/THUNDERMILL01) and his second version  [THUNDERMILL02](https://github.com/UniversalScientificTechnologies/THUNDERMILL02).
 
 
 <p float="left">
