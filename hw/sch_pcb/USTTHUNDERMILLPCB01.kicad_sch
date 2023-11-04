@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "THUNDERMILL01B")
+    (date "2023-11-04")
+    (company "ust.cz")
+    (comment 1 "Stator PCB\\n - signal processing board")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:OPA330xxDBV" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -1.27 6.35 0)

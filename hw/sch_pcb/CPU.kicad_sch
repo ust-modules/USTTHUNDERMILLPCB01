@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "THUNDERMILL01B")
+    (company "ust.cz")
+    (comment 1 "Stator PCB\\n - signal processing board")
+  )
+
   (lib_symbols
     (symbol "DATALOGGER01A-rescue:ATMEGA1284P-AU-atmel" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -21.59 47.752 0)
