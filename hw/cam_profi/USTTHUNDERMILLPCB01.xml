@@ -2,16 +2,16 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTTHUNDERMILLPCB01.kicad_sch</source>
-    <date>Tue Jul  4 07:59:29 2023</date>
-    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
+    <date>Sat Nov  4 10:19:47 2023</date>
+    <tool>Eeschema 7.0.8-7.0.8~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title/>
-        <company/>
+        <title>THUNDERMILL01B</title>
+        <company>ust.cz</company>
         <rev/>
-        <date/>
+        <date>2023-11-04</date>
         <source>USTTHUNDERMILLPCB01.kicad_sch</source>
-        <comment number="1" value=""/>
+        <comment number="1" value="Stator PCB\n - signal processing board"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
@@ -24,12 +24,12 @@
     </sheet>
     <sheet number="2" name="/tachometer/" tstamps="/c65d3f2e-8a0d-4ec9-900d-154ccfd9e32b/">
       <title_block>
-        <title/>
-        <company/>
+        <title>THUNDERMILL01B</title>
+        <company>ust.cz</company>
         <rev/>
         <date/>
         <source>tachometer.kicad_sch</source>
-        <comment number="1" value=""/>
+        <comment number="1" value="Stator PCB\n - signal processing board"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
@@ -42,12 +42,12 @@
     </sheet>
     <sheet number="3" name="/CPU/" tstamps="/f1d72f98-8869-41cc-b10e-5c93f9725bfa/">
       <title_block>
-        <title/>
-        <company/>
+        <title>THUNDERMILL01B</title>
+        <company>ust.cz</company>
         <rev/>
         <date/>
         <source>CPU.kicad_sch</source>
-        <comment number="1" value=""/>
+        <comment number="1" value="Stator PCB\n - signal processing board"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
